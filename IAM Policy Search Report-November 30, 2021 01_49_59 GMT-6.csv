@@ -1,0 +1,2 @@
+Resource,Asset Type,Project Id,Folders,Organization,Policy,Explanation
+"//cloudresourcemanager.googleapis.com/projects/abiding-base-295703","cloudresourcemanager.Project","abiding-base-295703",,,"{bindings:[{role:roles/owner,members:[user:BethFowler35@gmail.com]}]}",
